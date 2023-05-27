@@ -21,5 +21,10 @@ namespace Upbit_Trade
         {
             MessageBox.Show("1");
         }
+
+        private void bt_Login_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
