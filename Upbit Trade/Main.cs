@@ -16,5 +16,10 @@ namespace Upbit_Trade
         {
             InitializeComponent();
         }
+
+        private void Main_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("1");
+        }
     }
 }
